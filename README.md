@@ -3,15 +3,15 @@ All Lab Assignments of ML SemV
 
 Labs
 
-Lab1 : numpy
-Lab2 : pandas
-lab3 : Feature Engineering
-lab4 : Logistic Regression Scracth Implementation
-lab5 : Linear Regression Scracth Implementation (Courseera)
-lab6 : Linear Regression end to end
-lab7 : KNN
-lab8 : Data Visualization (Univariate)
-lab9 : Data Visualization (Bivariate)
+1) Lab1 : numpy
+2) Lab2 : pandas
+3) lab3 : Feature Engineering
+4) lab4 : Logistic Regression Scracth Implementation
+5) lab5 : Linear Regression Scracth Implementation (Courseera)
+6) lab6 : Linear Regression end to end
+7) lab7 : KNN
+8) lab8 : Data Visualization (Univariate)
+9) lab9 : Data Visualization (Bivariate)
 
 Coursera
 1) Logistic regression with numpy and python
